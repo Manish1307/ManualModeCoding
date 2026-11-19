@@ -1,0 +1,14 @@
+{
+  "name": "code-hardener",
+  "description": "Code quality tools for Claude: find bugs, harden error handling and match your project's coding style, with verified, diff-reviewed changes.",
+  "owner": {
+    "name": "Manish Kumar Srivastava"
+  },
+  "plugins": [
+    {
+      "name": "code-hardener",
+      "source": "./",
+      "description": "Find real bugs, add proper error handling, clean up AI-sounding code, verify behaviour is unchanged, and show a side-by-side diff before applying."
+    }
+  ]
+}

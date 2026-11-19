@@ -1,0 +1,10 @@
+{
+  "name": "code-hardener",
+  "version": "0.1.0",
+  "description": "Find real bugs, add proper error handling, clean up code and make AI-written code read like the project's own, then prove behaviour is unchanged and show a side-by-side diff before anything is applied.",
+  "author": {
+    "name": "Manish Kumar Srivastava"
+  },
+  "license": "MIT",
+  "keywords": ["code-review", "bug-finding", "error-handling", "refactoring", "code-quality", "power-pages", "dataverse"]
+}
